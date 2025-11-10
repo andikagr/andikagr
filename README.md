@@ -19,16 +19,16 @@
   </a>
 </div>
 
-<h3 align="center">⚙️ GitHub Stats:</h3>
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG15aTExM3R0dHdrdmJsd3J3MXFxaXduaWtrNjE2bnNzMXJyOGtneSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DInchfeAlghCY7RGRl/giphy.gif" />
+</div>
+
+<h3 align="center">GitHub Stats:</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=andikagr&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
-  <br><br> <!-- Tambahkan jarak -->
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andikagr&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG15aTExM3R0dHdrdmJsd3J3MXFxaXduaWtrNjE2bnNzMXJyOGtneSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DInchfeAlghCY7RGRl/giphy.gif" />
 </div>
 
 <picture>
