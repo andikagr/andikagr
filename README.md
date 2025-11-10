@@ -23,6 +23,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=andikagr&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
+  <br><br> <!-- Tambahkan jarak -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andikagr&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
 </div>
 
