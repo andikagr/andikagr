@@ -37,7 +37,7 @@ major: S1 Sistem Informasi
 
 ### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" />
 </p>
 
 ### ⚙️ Backend
