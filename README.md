@@ -42,7 +42,7 @@ major: S1 Sistem Informasi
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,php,laravel,express,fastapi&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,php,laravel&theme=dark" />
 </p>
 
 ### 🗄️ Database
