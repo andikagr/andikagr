@@ -47,7 +47,7 @@ major: S1 Sistem Informasi
 
 ### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark" />
 </p>
 
 ### 🛠️ DevOps & Tools
