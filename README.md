@@ -25,13 +25,8 @@
 ```yaml
 name: Andika Gilang Ramadan
 location: Indonesia 🇮🇩
-current_focus: Full Stack Web Development
-learning: Cloud Architecture & DevOps
-hobbies:
-  - Coding & Building Projects
-  - Gaming 🎮
-  - Exploring New Technologies
-  - Contributing to Open Source
+university: Telkom University
+major: S1 Sistem Informasi
 ```
 
 ---
