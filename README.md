@@ -71,13 +71,6 @@ major: S1 Sistem Informasi
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andikagr&theme=tokyonight" height="180" alt="Productive Time" />
 </div>
 
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=andikagr&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="GitHub Trophy" />
-</div>
 
 ---
 
